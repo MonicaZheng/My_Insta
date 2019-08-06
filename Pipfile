@@ -7,6 +7,12 @@ verify_ssl = true
 
 [packages]
 django = "*"
+pillow = "*"
+django-imagekit = "*"
+django-annoying = "*"
+gunicorn = "*"
+whitenoise = "*"
+dango = "*"
 
 [requires]
-python_version = "3.6"
+python_version = "3.7"
