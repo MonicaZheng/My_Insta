@@ -8,7 +8,7 @@
 ### 3. The front-end is completed in HTML, CSS, DTL, Bootstrap and JavaScript and used AJAX to achieve single page application.
 ### 4. If you are interested in the back-end restful API of this apps, you can check my another project: [Insta_Restful](https://github.com/MonicaZheng/Insta_Resftul)
 
-## Run instructions(run following terminals in the project path):
+## Run instructions(run following terminal comments in the project path):
 ### step 1.Install pipenv: pip3 install pipenv
 ### step 2.Install Django: pipenv install django
 ### step 3. Activate virtual environment: pipenv shell
